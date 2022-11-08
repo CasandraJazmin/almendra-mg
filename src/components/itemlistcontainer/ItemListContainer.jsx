@@ -1,11 +1,10 @@
-import './itemlistcontainer.css'
-export const ItemListContainer = ({ greeting }) => {
-  
+import './itemlistcontainer.css';
+import { Itemlist } from './Itemlist';
+export const ItemListContainer = () => {
   return (
-    <>
-    <div className='itemlist-container'>
-      <h2 className="greetings">{greeting}</h2>
-      </div>
-    </>
+    <div className='item-container'>
+      <Itemlist />
+    </div>
   );
 };
+
