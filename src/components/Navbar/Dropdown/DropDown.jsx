@@ -1,40 +1,41 @@
-import React from "react";
+import { Link } from 'react-router-dom';
+import React from 'react';
 
 export const DropDown = () => {
   return (
-    <li className="nav-item dropdown">
+    <li className='nav-item dropdown'>
       <a
-        className="nav-link dropdown-toggle"
-        href="#"
-        role="button"
-        data-bs-toggle="dropdown"
-        aria-expanded="false"
+        className='nav-link dropdown-toggle'
+        href='#'
+        role='button'
+        data-bs-toggle='dropdown'
+        aria-expanded='false'
       >
         Productos
       </a>
-      <ul className="dropdown-menu">
+      <ul className='dropdown-menu'>
         <li>
-          <a className="dropdown-item" href="#">
+          <Link className='nav-link dropdown-item' to='/category/1'>
             Acondicionador
-          </a>
+          </Link>
         </li>
         <li>
-          <a className="dropdown-item" href="#">
+          <Link className='nav-link dropdown-item' to='/category/2'>
             Shampoo
-          </a>
+          </Link>
         </li>
-        <li></li>
         <li>
-          <a className="dropdown-item" href="#">
+          <Link className='nav-link dropdown-item' to='/category/3'>
             Cremas para peinar
-          </a>
+          </Link>
         </li>
         <li>
-          <a className="dropdown-item" href="#">
+          <Link className='nav-link dropdown-item' to='/category/4'>
             Gel
-          </a>
+          </Link>
         </li>
       </ul>
     </li>
   );
 };
+      

@@ -1,4 +1,5 @@
 import React from 'react';
+import { ItemCount } from '../itemlistcontainer/ItemCount';
 import '../itemlistcontainer/itemlistcontainer.css';
 export const DetalleProducto = ({producto}) => {
     return (
@@ -13,7 +14,9 @@ export const DetalleProducto = ({producto}) => {
                     <p className='card-text'>Marca: {producto.marca}</p>
                     <p className='card-text'>Precio: ${producto.precio}</p>
                     <p className='card-text'>Stock: {producto.stock}</p>
+                    <ItemCount/>
                     <button className="btn btn-dark">Agregar al carrito</button>
+                   
                 </div>
             </div>
         </div>

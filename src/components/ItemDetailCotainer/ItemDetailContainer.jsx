@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { DetalleProducto } from "../Producto/DetalleProducto";
 import { getProducts } from "../../utils/getProducts";
 import '../itemlistcontainer/itemlistcontainer.css';
+import { ItemCount } from "../itemlistcontainer/ItemCount";
 export const ItemDetailContainer = () => {
   const [producto, setProducto] = useState(null);
   const { id } = useParams();
@@ -21,6 +22,7 @@ export const ItemDetailContainer = () => {
   return (
     <div className=" card mb-3 container ">
       {producto && <DetalleProducto producto={producto} />}
+      
     </div>
   );
 };
