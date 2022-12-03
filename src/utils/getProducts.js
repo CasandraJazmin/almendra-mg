@@ -1,3 +1,5 @@
+import { cargarBDD } from "../assets/firebase";
+import { getProductos } from "../assets/firebase";
 export const getProducts = (ruta) => {
     return new Promise((resolve) => {
       setTimeout(async () => {
@@ -10,3 +12,6 @@ export const getProducts = (ruta) => {
       }, 2000);
     });
   };
+  
+  // cargarBDD();
+  getProductos().then(data => console.log(data))

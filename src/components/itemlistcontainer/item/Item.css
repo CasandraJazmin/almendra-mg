@@ -1,0 +1,32 @@
+.cardProducto {
+    display: flex;
+    border: 1px solid black !important;
+    padding: 20px;
+    margin:auto;
+    width: 15%;
+    border-radius: 7px;
+    transition: all 300ms;
+    position: relative;
+   align-items: center;
+   max-width: fit-content;
+   
+  }
+  .prod-button {
+    display: flex;
+    justify-content: center;
+    background-color:thistle;
+    
+    
+     
+  }
+  .card-img {
+    display: flex;
+    max-width: fit-content;
+    
+  }
+  .cardProducto:hover{
+      transform: scale(1.05);
+  }
+  .img-fluid{
+    width:90%;
+  }

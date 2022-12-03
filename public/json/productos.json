@@ -1,103 +1,173 @@
 [
     {
         "id": 1,
-        "nombre": "Notebook",
-        "marca": "Lenovo",
-        "modelo": "Y510P",
-        "precio": 60000,
+        "nombre": "Cascada proteinas",
+        "marca": "Han",
+        "modelo": "Coco",
+        "precio": 3500,
         "stock": 30,
-        "img": "notebook-lenovo.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCascadaprotcoco.jpg?alt=media&token=1d2382e7-ce77-42c5-9152-70e7f9c075b1",
         "idCategory": 1
     },
     {
         "id": 2,
-        "nombre": "Celular",
-        "marca": "Xiomi",
-        "modelo": "Mi-9",
-        "precio": 35000,
+        "nombre": "Cascada proteinas",
+        "marca": "Han",
+        "modelo": "Aloe",
+        "precio": 3500,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg",
-        "idCategory": 2
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCascadaprotaloe.jpg?alt=media&token=43798e7b-1a90-4290-8367-58bb2780265d",
+        "idCategory": 1
     },
     {
         "id": 3,
-        "nombre": "Smart Tv",
-        "marca": "Novatech",
-        "modelo": "50D1U",
-        "precio": 57000,
+        "nombre": "Cascada proteinas",
+        "marca": "Han",
+        "modelo": "Chia",
+        "precio": 3500,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg",
-        "idCategory": 3
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCascadaprotchia.jpg?alt=media&token=1c352632-085c-4388-95c0-bff3a4e36974",
+        "idCategory": 1
     },
     {
         "id": 4,
-        "nombre": "Camara Deportiva",
-        "marca": "iQual",
-        "modelo": "C40",
-        "precio": 8000,
+        "nombre": "Gel",
+        "marca": "Aurill",
+        "modelo": "GelAurill",
+        "precio": 3500,
         "stock": 30,
-        "img": "camara-iqual.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FAurill.jpg?alt=media&token=9735d432-812b-41b2-97c9-02a5eb06c99d",
         "idCategory": 4
     },
     {
         "id": 5,
-        "nombre": "Mouse",
-        "marca": "Logitech",
-        "modelo": "G502",
-        "precio": 1400,
+        "nombre": "Cofia",
+        "marca": "C&C",
+        "modelo": "Negro",
+        "precio": 2500,
         "stock": 7,
-        "img": "mouse-logitech.jpg",
-        "idCategory": 1
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCofia%20Negra.jpg?alt=media&token=96a48f54-d2e2-4e84-a483-4fd9400a2b9d",
+        "idCategory": 5
     },
     {
         "id": 6,
-        "nombre": "Auriculares",
-        "marca": "Motorola",
-        "modelo": "Pulse Escape",
-        "precio": 4000,
+        "nombre": "Cofia",
+        "marca": "C&C",
+        "modelo": "Petroleo",
+        "precio": 2500,
         "stock": 20,
-        "img": "motorola-pulse.jpg",
-        "idCategory": 2
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCofia%20Petroleo.jpg?alt=media&token=9f8dd812-0d2e-44fc-b79a-4c71347e7cd9",
+        "idCategory": 5
     },
     {
         "id": 7,
-        "nombre": "iPhone",
-        "marca": "Apple",
-        "modelo": "X Silver",
-        "precio": 250000,
+        "nombre": "Cofia",
+        "marca": "C&C",
+        "modelo": "Roja",
+        "precio": 2500,
         "stock": 10,
-        "img": "iphone-x.jpg",
-        "idCategory": 3
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCofia%20Roja.jpg?alt=media&token=4ae0660f-062a-4001-ad58-2d500a4f3fc7",
+        "idCategory": 5
     },
     {
         "id": 8,
-        "nombre": "Apple TV",
-        "marca": "Apple ",
-        "modelo": "32 Gb",
-        "precio": 45000,
+        "nombre": "Cofia",
+        "marca": "C&C ",
+        "modelo": "Rosa",
+        "precio": 2500,
         "stock": 30,
-        "img": "apple-tv.jpg",
-        "idCategory": 4
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCofia%20Rosa.jpg?alt=media&token=57a0b7bb-47d9-4c1b-ac99-8ac92109a822",
+        "idCategory": 5
     },
     {
         "id": 9,
-        "nombre": "Parlante",
-        "marca": "Kalley",
-        "modelo": "SPK200",
-        "precio": 34000,
+        "nombre": "Colita",
+        "marca": "C&C",
+        "modelo": "Roja",
+        "precio": 1500,
         "stock": 21,
-        "img": "parlante-kalley.png",
-        "idCategory": 1
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FColita%20Roja.jpg?alt=media&token=a84a9e28-b00b-4627-93ce-5e8e1c6e4f3c",
+        "idCategory": 5
     },
     {
         "id": 10,
-        "nombre": "Mac",
-        "marca": "Apple",
-        "modelo": "Air",
-        "precio": 13000,
+        "nombre": "Colita",
+        "marca": "C&C",
+        "modelo": "Verde",
+        "precio": 1500,
         "stock": 25,
-        "img": "mac-air.jpg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FColita%20Verde.jpg?alt=media&token=bb3f9d0a-235f-459d-b090-a412ff95b767",
+        "idCategory": 5
+    },
+    {
+        "id": 11,
+        "nombre": "Colita",
+        "marca": "C&C",
+        "modelo": "Violeta",
+        "precio": 1500,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FColita%20Violeta.jpg?alt=media&token=90cd219a-8912-47ac-b010-4245f4f99331",
+        "idCategory": 5
+    },
+    {
+        "id": 12,
+        "nombre": "Shampoo",
+        "marca": "Frenzzi",
+        "modelo": "Sin parabenos",
+        "precio": 1500,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2Fshampoofrenzzi.jpg?alt=media&token=8a41d494-adeb-4c76-b25b-656afecf837f",
         "idCategory": 2
+    },
+    {
+        "id": 13,
+        "nombre": "Crema para peinar",
+        "marca": "Frenzzi",
+        "modelo": "Aloe y Salvia",
+        "precio": 3000,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCreampeinarFrenzzi.jpg?alt=media&token=e12d1260-7bae-40c9-9a20-ae00b38ee91f",
+        "idCategory": 3
+    },
+    {
+        "id": 14,
+        "nombre": "Crema para peinar",
+        "marca": "Skala",
+        "modelo": "DivinoPotao",
+        "precio": 1500,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FDivino%20potao.jpg?alt=media&token=cf420f96-a320-4abd-b829-ae626e6c5f6f",
+        "idCategory": 3
+    },
+    {
+        "id": 15,
+        "nombre": "Crema para peinar",
+        "marca": "Han",
+        "modelo": "Rulos definidos",
+        "precio": 2500,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCremapeinarHan.jpg?alt=media&token=b330c3b9-ea8a-4344-989d-73eb6052580a",
+        "idCategory": 3
+    },
+    {
+        "id": 16,
+        "nombre": "Crema para peinar",
+        "marca": "Spaline",
+        "modelo": "Chia",
+        "precio": 1500,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2Fcremapeinarchia.jpg?alt=media&token=a169327a-4eff-47f2-8520-abe56a9f344b",
+        "idCategory": 3
+    },
+    {
+        "id": 17,
+        "nombre": "Crema para peinar",
+        "marca": "Spaline",
+        "modelo": "Frutosrojos",
+        "precio": 1800,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/imgproductos%2FCremapeinarFR.jpg?alt=media&token=66ef12f8-7ab7-47ba-a02d-57d43d12e01a",
+        "idCategory": 3
     }
-    
+
 ]

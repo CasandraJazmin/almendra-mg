@@ -12,7 +12,7 @@ export const Navbar = () => {
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
           <img
-            src="../../../img/almendra-logo.jpg"
+            src="https://firebasestorage.googleapis.com/v0/b/almendramcg-da45f.appspot.com/o/almendra-logo.jpg?alt=media&token=cd19a532-1058-41f3-884f-2ddfb7e1680b"
             alt=""
             className="logo-img"
           />

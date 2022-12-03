@@ -16,7 +16,7 @@ export const DropDown = () => {
       <ul className='dropdown-menu'>
         <li>
           <Link className='nav-link dropdown-item' to='/category/1'>
-            Acondicionador
+            Cascada de proteinas
           </Link>
         </li>
         <li>
@@ -32,6 +32,11 @@ export const DropDown = () => {
         <li>
           <Link className='nav-link dropdown-item' to='/category/4'>
             Gel
+          </Link>
+        </li>
+        <li>
+          <Link className='nav-link dropdown-item' to='/category/5'>
+            Cofias & Colitas
           </Link>
         </li>
       </ul>

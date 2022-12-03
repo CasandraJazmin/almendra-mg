@@ -1,0 +1,29 @@
+.productobody{
+    border: 1px black solid;
+    align-items: center;
+    
+}
+.img-prod{
+    width: 300px;
+}
+.item-container {
+    display: flex;
+    /* border-top: ; */
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+   .card-body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+  } 
+   .card-text{
+    display: flex;
+    align-items: center;
+  } 
+   .card{
+    border: none;
+  } 
+  
